@@ -28,34 +28,34 @@
 
 -Ridge + RFE:
 
-R-Square for Training Set:  0.9166792947105542
-R-Square for Test Set:  0.80
-RSS for Training Set:  1.3752973911929183
-RSSS for Test Set:  9.177619858635754
-MSE for Training Set:  0.05742887147280618
-MSE for Test Set:  0.09697060913229046
+-R-Square for Training Set:  0.9166792947105542
+-R-Square for Test Set:  0.80
+-RSS for Training Set:  1.3752973911929183
+-RSSS for Test Set:  9.177619858635754
+-MSE for Training Set:  0.05742887147280618
+-MSE for Test Set:  0.09697060913229046
 
 =========================================
 
 -Ridge Regression:
 
-R-Square for Training Set:  0.9096859889725758
-R-Square for Test Set:  0.8189583410011175
-RSS for Training Set:  1.490729385003399
-RSSS for Test Set:  7.577743745473288
-MSE for Training Set:  0.05979038895607673
-MSE for Test Set:  0.08811402672916242
+-R-Square for Training Set:  0.9096859889725758
+-R-Square for Test Set:  0.8189583410011175
+-RSS for Training Set:  1.490729385003399
+-RSSS for Test Set:  7.577743745473288
+-MSE for Training Set:  0.05979038895607673
+-MSE for Test Set:  0.08811402672916242
 
 ==========================================
 
 -Lasso Regression:
 
-R-Square for Training Set:  0.8723206736948281
-R-Square for Test Set:  0.8156853791734743
-RSS for Training Set:  2.107483893310431
-RSSS for Test Set:  7.714737993955898
-MSE for Training Set:  0.0710909150973423
-MSE for Test Set:  0.08890694385670009
+-R-Square for Training Set:  0.8723206736948281
+-R-Square for Test Set:  0.8156853791734743
+-RSS for Training Set:  2.107483893310431
+-RSSS for Test Set:  7.714737993955898
+-MSE for Training Set:  0.0710909150973423
+-MSE for Test Set:  0.08890694385670009
 
 
 =============================================
